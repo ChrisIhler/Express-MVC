@@ -1,5 +1,5 @@
 const uuid = require('uuid/v4')
-Dogs = require('../models/Dogs')
+const Dogs = require('../models/dogs')
 
 
 
